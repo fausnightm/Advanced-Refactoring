@@ -20,10 +20,8 @@ These are screenshots of what the live webpage looks like:
 
 ![Screenshot-1](assets/images/Heriseon-ss1.png)
 
-``` md
-![Screenshot 2](assets/images/Heriseon ss2.png)
-```
-``` md
-![Screenshot 3](assets/images/Heriseon ss3.png)
-```
+![Screenshot-2](assets/images/Heriseon-ss2.png)
+
+![Screenshot-3](assets/images/Heriseon-ss3.png)
+
 
