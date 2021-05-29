@@ -70,6 +70,17 @@ p {
     margin-left: 20px;
 }
 
+/* Float Classes */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
 /* Consolidated SEO, Online Reputation, Social Media Marketing */
 
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
@@ -90,21 +101,6 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-/* Search Engine Optimization */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-/* Online Repuation Management */
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-
-/* Social Media Marketing */
 
 /* Hero End */
 
