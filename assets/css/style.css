@@ -150,52 +150,21 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+    
+}
+
+/* Benefit Lead, Brand, Cost Consolidated */
+.benefit-lead, .benefit-brand, .benefit-cost {
+    margin-bottom: 32px;
     color: #ffffff
 }
 
-/* Benefit Lead */
-.benefit-lead, .benefit-brand, .benefit-cost{
-    margin-bottom: 32px;
-}
-
-.benefit-lead h3 {
+.benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/* Benefit Brand */
-.benefit-brand {
-    margin-bottom: 32px;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/* Benefit Cost */
-.benefit-cost {
-    margin-bottom: 32px;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost img {
+.benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
