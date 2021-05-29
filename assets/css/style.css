@@ -154,7 +154,7 @@ p {
 }
 
 /* Benefit Lead */
-.benefit-lead {
+.benefit-lead, .benefit-brand, .benefit-cost{
     margin-bottom: 32px;
 }
 
