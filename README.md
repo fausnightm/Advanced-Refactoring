@@ -17,9 +17,9 @@ https://fausnightm.github.io/Advanced-Refactoring/
 
 These are screenshots of what the live webpage looks like:
 
-``` md
-![Screenshot 1](assets/images/Heriseon ss1.png)
-```
+
+![Screenshot-1](assets/images/Heriseon-ss1.png)
+
 ``` md
 ![Screenshot 2](assets/images/Heriseon ss2.png)
 ```
