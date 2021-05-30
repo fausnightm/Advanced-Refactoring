@@ -8,6 +8,10 @@ Firstly, I added all of the accessabitlity features needs for the website to be 
 
 Secondly, I refactored the css. I initially, added comments to help understand the layout of the CSS. Then, I consolidated similar components to minimized the lines of code needed to achieve the layout and features. 
 
+## Language 
+
+For this website, I used HTML and CSS.
+
 
 ## Usage
 
